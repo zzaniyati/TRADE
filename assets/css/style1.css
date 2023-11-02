@@ -1,0 +1,26 @@
+.search{
+    margin-top:100px;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;    
+    background: linear-gradient(rgba(140, 198, 63, 0.5), rgb(192, 251, 91,0.5)), url(/assets/images/lonely-person-walking-pathway-alabama-hills-california-with-mount-whitney\ 1.png);
+
+}
+
+.review-box{
+    box-sizing: border-box;
+    width: 300px;
+    height: 250px;
+    background-color: #FAFAFA;
+    border-radius: 10px;
+}
+
+.reviwe-img{
+    width: 200px;
+    height: 30px;
+}
+
+.g-img{
+    width: 20px;
+}
